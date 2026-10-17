@@ -38,4 +38,4 @@ dependency-cruiser fits JavaScript and TypeScript. On the JVM, ArchUnit covers t
 
 Automate what is mechanical (boundaries, conventions, required wrappers). Keep trade-offs, rule retirement and deliberate exceptions human. Review the rules like code.
 
-Licence: choose one before publishing (MIT is a common default).
+Licence: MIT. See the LICENSE file.
