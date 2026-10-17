@@ -1,0 +1,13 @@
+{
+  "name": "ai-architecture-guardrails",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Illustrative template: capture architecture intent, encode it as CI invariants, gate PRs on decisions.",
+  "scripts": {
+    "test:architecture": "depcruise src --config .dependency-cruiser.js"
+  },
+  "devDependencies": {
+    "dependency-cruiser": "^16.0.0",
+    "typescript": "^5.4.0"
+  }
+}
