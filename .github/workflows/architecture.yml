@@ -1,6 +1,5 @@
 name: architecture
-on: [pull_request]
-jobs:
+on: [push, pull_request]jobs:
   invariants:
     runs-on: ubuntu-latest
     steps:
